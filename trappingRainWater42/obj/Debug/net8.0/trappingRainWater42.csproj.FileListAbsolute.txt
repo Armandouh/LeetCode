@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/trappingRainWater42/bin/Debug/net8.0/trappingRainWater42
+/Users/armanaslanyan/Desktop/rider/leetCode/trappingRainWater42/bin/Debug/net8.0/trappingRainWater42.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/trappingRainWater42/bin/Debug/net8.0/trappingRainWater42.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/trappingRainWater42/bin/Debug/net8.0/trappingRainWater42.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/trappingRainWater42/bin/Debug/net8.0/trappingRainWater42.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/trappingRainWater42/obj/Debug/net8.0/trappingRainWater42.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/trappingRainWater42/obj/Debug/net8.0/trappingRainWater42.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/trappingRainWater42/obj/Debug/net8.0/trappingRainWater42.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/trappingRainWater42/obj/Debug/net8.0/trappingRainWater42.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/trappingRainWater42/obj/Debug/net8.0/trappingRainWater42.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/trappingRainWater42/obj/Debug/net8.0/refint/trappingRainWater42.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/trappingRainWater42/obj/Debug/net8.0/trappingRainWater42.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/trappingRainWater42/obj/Debug/net8.0/trappingRainWater42.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/trappingRainWater42/obj/Debug/net8.0/ref/trappingRainWater42.dll

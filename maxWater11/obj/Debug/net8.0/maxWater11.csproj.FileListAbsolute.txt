@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/maxWater11/bin/Debug/net8.0/maxWater11
+/Users/armanaslanyan/Desktop/rider/leetCode/maxWater11/bin/Debug/net8.0/maxWater11.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/maxWater11/bin/Debug/net8.0/maxWater11.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/maxWater11/bin/Debug/net8.0/maxWater11.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/maxWater11/bin/Debug/net8.0/maxWater11.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/maxWater11/obj/Debug/net8.0/maxWater11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/maxWater11/obj/Debug/net8.0/maxWater11.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/maxWater11/obj/Debug/net8.0/maxWater11.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/maxWater11/obj/Debug/net8.0/maxWater11.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/maxWater11/obj/Debug/net8.0/maxWater11.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/maxWater11/obj/Debug/net8.0/refint/maxWater11.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/maxWater11/obj/Debug/net8.0/maxWater11.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/maxWater11/obj/Debug/net8.0/maxWater11.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/maxWater11/obj/Debug/net8.0/ref/maxWater11.dll

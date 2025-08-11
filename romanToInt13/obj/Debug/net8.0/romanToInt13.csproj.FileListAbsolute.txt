@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/romanToInt13/bin/Debug/net8.0/romanToInt13
+/Users/armanaslanyan/Desktop/rider/leetCode/romanToInt13/bin/Debug/net8.0/romanToInt13.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/romanToInt13/bin/Debug/net8.0/romanToInt13.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/romanToInt13/bin/Debug/net8.0/romanToInt13.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/romanToInt13/bin/Debug/net8.0/romanToInt13.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/romanToInt13/obj/Debug/net8.0/romanToInt13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/romanToInt13/obj/Debug/net8.0/romanToInt13.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/romanToInt13/obj/Debug/net8.0/romanToInt13.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/romanToInt13/obj/Debug/net8.0/romanToInt13.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/romanToInt13/obj/Debug/net8.0/romanToInt13.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/romanToInt13/obj/Debug/net8.0/refint/romanToInt13.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/romanToInt13/obj/Debug/net8.0/romanToInt13.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/romanToInt13/obj/Debug/net8.0/romanToInt13.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/romanToInt13/obj/Debug/net8.0/ref/romanToInt13.dll

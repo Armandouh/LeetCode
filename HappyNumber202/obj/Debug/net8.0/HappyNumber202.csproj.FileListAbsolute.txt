@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/HappyNumber202/bin/Debug/net8.0/HappyNumber202
+/Users/armanaslanyan/Desktop/rider/leetCode/HappyNumber202/bin/Debug/net8.0/HappyNumber202.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/HappyNumber202/bin/Debug/net8.0/HappyNumber202.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/HappyNumber202/bin/Debug/net8.0/HappyNumber202.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/HappyNumber202/bin/Debug/net8.0/HappyNumber202.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/HappyNumber202/obj/Debug/net8.0/HappyNumber202.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/HappyNumber202/obj/Debug/net8.0/HappyNumber202.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/HappyNumber202/obj/Debug/net8.0/HappyNumber202.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/HappyNumber202/obj/Debug/net8.0/HappyNumber202.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/HappyNumber202/obj/Debug/net8.0/HappyNumber202.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/HappyNumber202/obj/Debug/net8.0/refint/HappyNumber202.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/HappyNumber202/obj/Debug/net8.0/HappyNumber202.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/HappyNumber202/obj/Debug/net8.0/HappyNumber202.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/HappyNumber202/obj/Debug/net8.0/ref/HappyNumber202.dll

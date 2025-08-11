@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/anagramGroups49/bin/Debug/net8.0/anagramGroups49
+/Users/armanaslanyan/Desktop/rider/leetCode/anagramGroups49/bin/Debug/net8.0/anagramGroups49.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/anagramGroups49/bin/Debug/net8.0/anagramGroups49.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/anagramGroups49/bin/Debug/net8.0/anagramGroups49.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/anagramGroups49/bin/Debug/net8.0/anagramGroups49.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/anagramGroups49/obj/Debug/net8.0/anagramGroups49.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/anagramGroups49/obj/Debug/net8.0/anagramGroups49.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/anagramGroups49/obj/Debug/net8.0/anagramGroups49.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/anagramGroups49/obj/Debug/net8.0/anagramGroups49.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/anagramGroups49/obj/Debug/net8.0/anagramGroups49.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/anagramGroups49/obj/Debug/net8.0/refint/anagramGroups49.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/anagramGroups49/obj/Debug/net8.0/anagramGroups49.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/anagramGroups49/obj/Debug/net8.0/anagramGroups49.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/anagramGroups49/obj/Debug/net8.0/ref/anagramGroups49.dll

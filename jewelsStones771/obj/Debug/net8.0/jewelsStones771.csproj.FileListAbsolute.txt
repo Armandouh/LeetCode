@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/jewelsStones771/bin/Debug/net8.0/jewelsStones771
+/Users/armanaslanyan/Desktop/rider/leetCode/jewelsStones771/bin/Debug/net8.0/jewelsStones771.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/jewelsStones771/bin/Debug/net8.0/jewelsStones771.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/jewelsStones771/bin/Debug/net8.0/jewelsStones771.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/jewelsStones771/bin/Debug/net8.0/jewelsStones771.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/jewelsStones771/obj/Debug/net8.0/jewelsStones771.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/jewelsStones771/obj/Debug/net8.0/jewelsStones771.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/jewelsStones771/obj/Debug/net8.0/jewelsStones771.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/jewelsStones771/obj/Debug/net8.0/jewelsStones771.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/jewelsStones771/obj/Debug/net8.0/jewelsStones771.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/jewelsStones771/obj/Debug/net8.0/refint/jewelsStones771.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/jewelsStones771/obj/Debug/net8.0/jewelsStones771.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/jewelsStones771/obj/Debug/net8.0/jewelsStones771.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/jewelsStones771/obj/Debug/net8.0/ref/jewelsStones771.dll

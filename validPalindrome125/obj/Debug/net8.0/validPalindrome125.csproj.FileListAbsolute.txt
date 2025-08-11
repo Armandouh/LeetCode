@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/validPalindrome125/bin/Debug/net8.0/validPalindrome125
+/Users/armanaslanyan/Desktop/rider/leetCode/validPalindrome125/bin/Debug/net8.0/validPalindrome125.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/validPalindrome125/bin/Debug/net8.0/validPalindrome125.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/validPalindrome125/bin/Debug/net8.0/validPalindrome125.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/validPalindrome125/bin/Debug/net8.0/validPalindrome125.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/validPalindrome125/obj/Debug/net8.0/validPalindrome125.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/validPalindrome125/obj/Debug/net8.0/validPalindrome125.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/validPalindrome125/obj/Debug/net8.0/validPalindrome125.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/validPalindrome125/obj/Debug/net8.0/validPalindrome125.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/validPalindrome125/obj/Debug/net8.0/validPalindrome125.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/validPalindrome125/obj/Debug/net8.0/refint/validPalindrome125.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/validPalindrome125/obj/Debug/net8.0/validPalindrome125.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/validPalindrome125/obj/Debug/net8.0/validPalindrome125.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/validPalindrome125/obj/Debug/net8.0/ref/validPalindrome125.dll

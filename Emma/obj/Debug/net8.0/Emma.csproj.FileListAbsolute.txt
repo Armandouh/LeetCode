@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/Emma/bin/Debug/net8.0/Emma
+/Users/armanaslanyan/Desktop/rider/leetCode/Emma/bin/Debug/net8.0/Emma.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/Emma/bin/Debug/net8.0/Emma.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/Emma/bin/Debug/net8.0/Emma.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/Emma/bin/Debug/net8.0/Emma.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/Emma/obj/Debug/net8.0/Emma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/Emma/obj/Debug/net8.0/Emma.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/Emma/obj/Debug/net8.0/Emma.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/Emma/obj/Debug/net8.0/Emma.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/Emma/obj/Debug/net8.0/Emma.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/Emma/obj/Debug/net8.0/refint/Emma.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/Emma/obj/Debug/net8.0/Emma.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/Emma/obj/Debug/net8.0/Emma.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/Emma/obj/Debug/net8.0/ref/Emma.dll

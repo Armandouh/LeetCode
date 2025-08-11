@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/FirstOccurance28/bin/Debug/net8.0/FirstOccurance28
+/Users/armanaslanyan/Desktop/rider/leetCode/FirstOccurance28/bin/Debug/net8.0/FirstOccurance28.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/FirstOccurance28/bin/Debug/net8.0/FirstOccurance28.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/FirstOccurance28/bin/Debug/net8.0/FirstOccurance28.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/FirstOccurance28/bin/Debug/net8.0/FirstOccurance28.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/FirstOccurance28/obj/Debug/net8.0/FirstOccurance28.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/FirstOccurance28/obj/Debug/net8.0/FirstOccurance28.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/FirstOccurance28/obj/Debug/net8.0/FirstOccurance28.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/FirstOccurance28/obj/Debug/net8.0/FirstOccurance28.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/FirstOccurance28/obj/Debug/net8.0/FirstOccurance28.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/FirstOccurance28/obj/Debug/net8.0/refint/FirstOccurance28.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/FirstOccurance28/obj/Debug/net8.0/FirstOccurance28.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/FirstOccurance28/obj/Debug/net8.0/FirstOccurance28.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/FirstOccurance28/obj/Debug/net8.0/ref/FirstOccurance28.dll

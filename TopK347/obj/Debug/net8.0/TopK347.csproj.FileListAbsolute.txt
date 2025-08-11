@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/TopK347/bin/Debug/net8.0/TopK347
+/Users/armanaslanyan/Desktop/rider/leetCode/TopK347/bin/Debug/net8.0/TopK347.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/TopK347/bin/Debug/net8.0/TopK347.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/TopK347/bin/Debug/net8.0/TopK347.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/TopK347/bin/Debug/net8.0/TopK347.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/TopK347/obj/Debug/net8.0/TopK347.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/TopK347/obj/Debug/net8.0/TopK347.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/TopK347/obj/Debug/net8.0/TopK347.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/TopK347/obj/Debug/net8.0/TopK347.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/TopK347/obj/Debug/net8.0/TopK347.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/TopK347/obj/Debug/net8.0/refint/TopK347.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/TopK347/obj/Debug/net8.0/TopK347.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/TopK347/obj/Debug/net8.0/TopK347.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/TopK347/obj/Debug/net8.0/ref/TopK347.dll

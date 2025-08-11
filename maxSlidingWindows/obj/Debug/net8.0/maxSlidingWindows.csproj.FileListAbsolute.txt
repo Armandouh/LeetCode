@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/maxSlidingWindows/obj/Debug/net8.0/maxSlidingWindows.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/maxSlidingWindows/obj/Debug/net8.0/maxSlidingWindows.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/maxSlidingWindows/obj/Debug/net8.0/maxSlidingWindows.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/maxSlidingWindows/obj/Debug/net8.0/maxSlidingWindows.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/maxSlidingWindows/bin/Debug/net8.0/maxSlidingWindows
+/Users/armanaslanyan/Desktop/rider/leetCode/maxSlidingWindows/bin/Debug/net8.0/maxSlidingWindows.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/maxSlidingWindows/bin/Debug/net8.0/maxSlidingWindows.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/maxSlidingWindows/bin/Debug/net8.0/maxSlidingWindows.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/maxSlidingWindows/bin/Debug/net8.0/maxSlidingWindows.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/maxSlidingWindows/obj/Debug/net8.0/maxSlidingWindows.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/maxSlidingWindows/obj/Debug/net8.0/refint/maxSlidingWindows.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/maxSlidingWindows/obj/Debug/net8.0/maxSlidingWindows.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/maxSlidingWindows/obj/Debug/net8.0/maxSlidingWindows.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/maxSlidingWindows/obj/Debug/net8.0/ref/maxSlidingWindows.dll

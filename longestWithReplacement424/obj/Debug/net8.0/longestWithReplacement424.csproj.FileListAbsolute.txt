@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/longestWithReplacement424/bin/Debug/net8.0/longestWithReplacement424
+/Users/armanaslanyan/Desktop/rider/leetCode/longestWithReplacement424/bin/Debug/net8.0/longestWithReplacement424.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/longestWithReplacement424/bin/Debug/net8.0/longestWithReplacement424.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/longestWithReplacement424/bin/Debug/net8.0/longestWithReplacement424.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/longestWithReplacement424/bin/Debug/net8.0/longestWithReplacement424.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/longestWithReplacement424/obj/Debug/net8.0/longestWithReplacement424.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/longestWithReplacement424/obj/Debug/net8.0/longestWithReplacement424.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/longestWithReplacement424/obj/Debug/net8.0/longestWithReplacement424.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/longestWithReplacement424/obj/Debug/net8.0/longestWithReplacement424.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/longestWithReplacement424/obj/Debug/net8.0/longestWithReplacement424.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/longestWithReplacement424/obj/Debug/net8.0/refint/longestWithReplacement424.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/longestWithReplacement424/obj/Debug/net8.0/longestWithReplacement424.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/longestWithReplacement424/obj/Debug/net8.0/longestWithReplacement424.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/longestWithReplacement424/obj/Debug/net8.0/ref/longestWithReplacement424.dll

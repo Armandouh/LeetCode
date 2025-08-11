@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/bestTimeToBuy121/obj/Debug/net8.0/bestTimeToBuy121.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/bestTimeToBuy121/obj/Debug/net8.0/bestTimeToBuy121.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/bestTimeToBuy121/obj/Debug/net8.0/bestTimeToBuy121.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/bestTimeToBuy121/obj/Debug/net8.0/bestTimeToBuy121.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/bestTimeToBuy121/bin/Debug/net8.0/bestTimeToBuy121
+/Users/armanaslanyan/Desktop/rider/leetCode/bestTimeToBuy121/bin/Debug/net8.0/bestTimeToBuy121.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/bestTimeToBuy121/bin/Debug/net8.0/bestTimeToBuy121.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/bestTimeToBuy121/bin/Debug/net8.0/bestTimeToBuy121.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/bestTimeToBuy121/bin/Debug/net8.0/bestTimeToBuy121.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/bestTimeToBuy121/obj/Debug/net8.0/bestTimeToBuy121.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/bestTimeToBuy121/obj/Debug/net8.0/refint/bestTimeToBuy121.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/bestTimeToBuy121/obj/Debug/net8.0/bestTimeToBuy121.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/bestTimeToBuy121/obj/Debug/net8.0/bestTimeToBuy121.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/bestTimeToBuy121/obj/Debug/net8.0/ref/bestTimeToBuy121.dll

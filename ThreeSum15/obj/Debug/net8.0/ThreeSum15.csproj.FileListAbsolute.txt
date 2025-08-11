@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/ThreeSum15/bin/Debug/net8.0/ThreeSum15
+/Users/armanaslanyan/Desktop/rider/leetCode/ThreeSum15/bin/Debug/net8.0/ThreeSum15.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/ThreeSum15/bin/Debug/net8.0/ThreeSum15.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/ThreeSum15/bin/Debug/net8.0/ThreeSum15.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/ThreeSum15/bin/Debug/net8.0/ThreeSum15.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/ThreeSum15/obj/Debug/net8.0/ThreeSum15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/ThreeSum15/obj/Debug/net8.0/ThreeSum15.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/ThreeSum15/obj/Debug/net8.0/ThreeSum15.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/ThreeSum15/obj/Debug/net8.0/ThreeSum15.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/ThreeSum15/obj/Debug/net8.0/ThreeSum15.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/ThreeSum15/obj/Debug/net8.0/refint/ThreeSum15.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/ThreeSum15/obj/Debug/net8.0/ThreeSum15.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/ThreeSum15/obj/Debug/net8.0/ThreeSum15.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/ThreeSum15/obj/Debug/net8.0/ref/ThreeSum15.dll

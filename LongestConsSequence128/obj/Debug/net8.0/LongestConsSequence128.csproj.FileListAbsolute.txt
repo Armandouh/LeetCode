@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/LongestConsSequence128/obj/Debug/net8.0/LongestConsSequence128.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/LongestConsSequence128/obj/Debug/net8.0/LongestConsSequence128.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/LongestConsSequence128/obj/Debug/net8.0/LongestConsSequence128.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/LongestConsSequence128/obj/Debug/net8.0/LongestConsSequence128.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/LongestConsSequence128/bin/Debug/net8.0/LongestConsSequence128
+/Users/armanaslanyan/Desktop/rider/leetCode/LongestConsSequence128/bin/Debug/net8.0/LongestConsSequence128.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/LongestConsSequence128/bin/Debug/net8.0/LongestConsSequence128.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/LongestConsSequence128/bin/Debug/net8.0/LongestConsSequence128.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/LongestConsSequence128/bin/Debug/net8.0/LongestConsSequence128.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/LongestConsSequence128/obj/Debug/net8.0/LongestConsSequence128.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/LongestConsSequence128/obj/Debug/net8.0/refint/LongestConsSequence128.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/LongestConsSequence128/obj/Debug/net8.0/LongestConsSequence128.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/LongestConsSequence128/obj/Debug/net8.0/LongestConsSequence128.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/LongestConsSequence128/obj/Debug/net8.0/ref/LongestConsSequence128.dll

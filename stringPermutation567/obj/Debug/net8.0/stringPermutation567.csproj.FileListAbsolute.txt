@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/stringPermutation567/bin/Debug/net8.0/stringPermutation567
+/Users/armanaslanyan/Desktop/rider/leetCode/stringPermutation567/bin/Debug/net8.0/stringPermutation567.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/stringPermutation567/bin/Debug/net8.0/stringPermutation567.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/stringPermutation567/bin/Debug/net8.0/stringPermutation567.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/stringPermutation567/bin/Debug/net8.0/stringPermutation567.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/stringPermutation567/obj/Debug/net8.0/stringPermutation567.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/stringPermutation567/obj/Debug/net8.0/stringPermutation567.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/stringPermutation567/obj/Debug/net8.0/stringPermutation567.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/stringPermutation567/obj/Debug/net8.0/stringPermutation567.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/stringPermutation567/obj/Debug/net8.0/stringPermutation567.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/stringPermutation567/obj/Debug/net8.0/refint/stringPermutation567.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/stringPermutation567/obj/Debug/net8.0/stringPermutation567.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/stringPermutation567/obj/Debug/net8.0/stringPermutation567.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/stringPermutation567/obj/Debug/net8.0/ref/stringPermutation567.dll

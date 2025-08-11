@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/majorityElement169/bin/Debug/net8.0/majorityElement169
+/Users/armanaslanyan/Desktop/rider/leetCode/majorityElement169/bin/Debug/net8.0/majorityElement169.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/majorityElement169/bin/Debug/net8.0/majorityElement169.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/majorityElement169/bin/Debug/net8.0/majorityElement169.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/majorityElement169/bin/Debug/net8.0/majorityElement169.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/majorityElement169/obj/Debug/net8.0/majorityElement169.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/majorityElement169/obj/Debug/net8.0/majorityElement169.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/majorityElement169/obj/Debug/net8.0/majorityElement169.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/majorityElement169/obj/Debug/net8.0/majorityElement169.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/majorityElement169/obj/Debug/net8.0/majorityElement169.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/majorityElement169/obj/Debug/net8.0/refint/majorityElement169.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/majorityElement169/obj/Debug/net8.0/majorityElement169.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/majorityElement169/obj/Debug/net8.0/majorityElement169.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/majorityElement169/obj/Debug/net8.0/ref/majorityElement169.dll

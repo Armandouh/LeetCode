@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/MergeLists21/bin/Debug/net8.0/MergeLists21
+/Users/armanaslanyan/Desktop/rider/leetCode/MergeLists21/bin/Debug/net8.0/MergeLists21.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/MergeLists21/bin/Debug/net8.0/MergeLists21.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/MergeLists21/bin/Debug/net8.0/MergeLists21.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/MergeLists21/bin/Debug/net8.0/MergeLists21.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/MergeLists21/obj/Debug/net8.0/MergeLists21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/MergeLists21/obj/Debug/net8.0/MergeLists21.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/MergeLists21/obj/Debug/net8.0/MergeLists21.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/MergeLists21/obj/Debug/net8.0/MergeLists21.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/MergeLists21/obj/Debug/net8.0/MergeLists21.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/MergeLists21/obj/Debug/net8.0/refint/MergeLists21.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/MergeLists21/obj/Debug/net8.0/MergeLists21.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/MergeLists21/obj/Debug/net8.0/MergeLists21.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/MergeLists21/obj/Debug/net8.0/ref/MergeLists21.dll

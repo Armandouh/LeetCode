@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/validAnagram242/bin/Debug/net8.0/validAnagram242
+/Users/armanaslanyan/Desktop/rider/leetCode/validAnagram242/bin/Debug/net8.0/validAnagram242.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/validAnagram242/bin/Debug/net8.0/validAnagram242.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/validAnagram242/bin/Debug/net8.0/validAnagram242.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/validAnagram242/bin/Debug/net8.0/validAnagram242.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/validAnagram242/obj/Debug/net8.0/validAnagram242.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/validAnagram242/obj/Debug/net8.0/validAnagram242.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/validAnagram242/obj/Debug/net8.0/validAnagram242.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/validAnagram242/obj/Debug/net8.0/validAnagram242.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/validAnagram242/obj/Debug/net8.0/validAnagram242.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/validAnagram242/obj/Debug/net8.0/refint/validAnagram242.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/validAnagram242/obj/Debug/net8.0/validAnagram242.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/validAnagram242/obj/Debug/net8.0/validAnagram242.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/validAnagram242/obj/Debug/net8.0/ref/validAnagram242.dll

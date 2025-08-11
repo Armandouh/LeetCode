@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/encodeDecode271/bin/Debug/net8.0/encodeDecode271
+/Users/armanaslanyan/Desktop/rider/leetCode/encodeDecode271/bin/Debug/net8.0/encodeDecode271.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/encodeDecode271/bin/Debug/net8.0/encodeDecode271.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/encodeDecode271/bin/Debug/net8.0/encodeDecode271.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/encodeDecode271/bin/Debug/net8.0/encodeDecode271.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/encodeDecode271/obj/Debug/net8.0/encodeDecode271.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/encodeDecode271/obj/Debug/net8.0/encodeDecode271.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/encodeDecode271/obj/Debug/net8.0/encodeDecode271.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/encodeDecode271/obj/Debug/net8.0/encodeDecode271.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/encodeDecode271/obj/Debug/net8.0/encodeDecode271.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/encodeDecode271/obj/Debug/net8.0/refint/encodeDecode271.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/encodeDecode271/obj/Debug/net8.0/encodeDecode271.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/encodeDecode271/obj/Debug/net8.0/encodeDecode271.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/encodeDecode271/obj/Debug/net8.0/ref/encodeDecode271.dll

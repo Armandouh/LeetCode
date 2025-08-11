@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/productOfArrayExceptSelf238/bin/Debug/net8.0/productOfArrayExceptSelf238
+/Users/armanaslanyan/Desktop/rider/leetCode/productOfArrayExceptSelf238/bin/Debug/net8.0/productOfArrayExceptSelf238.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/productOfArrayExceptSelf238/bin/Debug/net8.0/productOfArrayExceptSelf238.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/productOfArrayExceptSelf238/bin/Debug/net8.0/productOfArrayExceptSelf238.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/productOfArrayExceptSelf238/bin/Debug/net8.0/productOfArrayExceptSelf238.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/productOfArrayExceptSelf238/obj/Debug/net8.0/productOfArrayExceptSelf238.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/productOfArrayExceptSelf238/obj/Debug/net8.0/productOfArrayExceptSelf238.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/productOfArrayExceptSelf238/obj/Debug/net8.0/productOfArrayExceptSelf238.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/productOfArrayExceptSelf238/obj/Debug/net8.0/productOfArrayExceptSelf238.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/productOfArrayExceptSelf238/obj/Debug/net8.0/productOfArrayExceptSelf238.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/productOfArrayExceptSelf238/obj/Debug/net8.0/refint/productOfArrayExceptSelf238.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/productOfArrayExceptSelf238/obj/Debug/net8.0/productOfArrayExceptSelf238.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/productOfArrayExceptSelf238/obj/Debug/net8.0/productOfArrayExceptSelf238.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/productOfArrayExceptSelf238/obj/Debug/net8.0/ref/productOfArrayExceptSelf238.dll

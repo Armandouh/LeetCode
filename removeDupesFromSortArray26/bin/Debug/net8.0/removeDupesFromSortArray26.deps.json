@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "removeDupesFromSortArray26/1.0.0": {
+        "runtime": {
+          "removeDupesFromSortArray26.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "removeDupesFromSortArray26/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

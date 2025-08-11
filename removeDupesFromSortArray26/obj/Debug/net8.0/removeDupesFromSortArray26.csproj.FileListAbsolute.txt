@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/removeDupesFromSortArray26/bin/Debug/net8.0/removeDupesFromSortArray26
+/Users/armanaslanyan/Desktop/rider/leetCode/removeDupesFromSortArray26/bin/Debug/net8.0/removeDupesFromSortArray26.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/removeDupesFromSortArray26/bin/Debug/net8.0/removeDupesFromSortArray26.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/removeDupesFromSortArray26/bin/Debug/net8.0/removeDupesFromSortArray26.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/removeDupesFromSortArray26/bin/Debug/net8.0/removeDupesFromSortArray26.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/removeDupesFromSortArray26/obj/Debug/net8.0/removeDupesFromSortArray26.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/removeDupesFromSortArray26/obj/Debug/net8.0/removeDupesFromSortArray26.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/removeDupesFromSortArray26/obj/Debug/net8.0/removeDupesFromSortArray26.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/removeDupesFromSortArray26/obj/Debug/net8.0/removeDupesFromSortArray26.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/removeDupesFromSortArray26/obj/Debug/net8.0/removeDupesFromSortArray26.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/removeDupesFromSortArray26/obj/Debug/net8.0/refint/removeDupesFromSortArray26.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/removeDupesFromSortArray26/obj/Debug/net8.0/removeDupesFromSortArray26.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/removeDupesFromSortArray26/obj/Debug/net8.0/removeDupesFromSortArray26.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/removeDupesFromSortArray26/obj/Debug/net8.0/ref/removeDupesFromSortArray26.dll

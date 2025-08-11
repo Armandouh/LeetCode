@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/validParentheses/bin/Debug/net8.0/validParentheses
+/Users/armanaslanyan/Desktop/rider/leetCode/validParentheses/bin/Debug/net8.0/validParentheses.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/validParentheses/bin/Debug/net8.0/validParentheses.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/validParentheses/bin/Debug/net8.0/validParentheses.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/validParentheses/bin/Debug/net8.0/validParentheses.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/validParentheses/obj/Debug/net8.0/validParentheses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/validParentheses/obj/Debug/net8.0/validParentheses.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/validParentheses/obj/Debug/net8.0/validParentheses.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/validParentheses/obj/Debug/net8.0/validParentheses.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/validParentheses/obj/Debug/net8.0/validParentheses.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/validParentheses/obj/Debug/net8.0/refint/validParentheses.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/validParentheses/obj/Debug/net8.0/validParentheses.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/validParentheses/obj/Debug/net8.0/validParentheses.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/validParentheses/obj/Debug/net8.0/ref/validParentheses.dll

@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/longestPrefix14/bin/Debug/net8.0/longestPrefix14
+/Users/armanaslanyan/Desktop/rider/leetCode/longestPrefix14/bin/Debug/net8.0/longestPrefix14.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/longestPrefix14/bin/Debug/net8.0/longestPrefix14.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/longestPrefix14/bin/Debug/net8.0/longestPrefix14.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/longestPrefix14/bin/Debug/net8.0/longestPrefix14.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/longestPrefix14/obj/Debug/net8.0/longestPrefix14.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/longestPrefix14/obj/Debug/net8.0/longestPrefix14.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/longestPrefix14/obj/Debug/net8.0/longestPrefix14.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/longestPrefix14/obj/Debug/net8.0/longestPrefix14.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/longestPrefix14/obj/Debug/net8.0/longestPrefix14.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/longestPrefix14/obj/Debug/net8.0/refint/longestPrefix14.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/longestPrefix14/obj/Debug/net8.0/longestPrefix14.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/longestPrefix14/obj/Debug/net8.0/longestPrefix14.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/longestPrefix14/obj/Debug/net8.0/ref/longestPrefix14.dll

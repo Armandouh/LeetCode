@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/CarFleet853/bin/Debug/net8.0/CarFleet853
+/Users/armanaslanyan/Desktop/rider/leetCode/CarFleet853/bin/Debug/net8.0/CarFleet853.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/CarFleet853/bin/Debug/net8.0/CarFleet853.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/CarFleet853/bin/Debug/net8.0/CarFleet853.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/CarFleet853/bin/Debug/net8.0/CarFleet853.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/CarFleet853/obj/Debug/net8.0/CarFleet853.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/CarFleet853/obj/Debug/net8.0/CarFleet853.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/CarFleet853/obj/Debug/net8.0/CarFleet853.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/CarFleet853/obj/Debug/net8.0/CarFleet853.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/CarFleet853/obj/Debug/net8.0/CarFleet853.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/CarFleet853/obj/Debug/net8.0/refint/CarFleet853.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/CarFleet853/obj/Debug/net8.0/CarFleet853.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/CarFleet853/obj/Debug/net8.0/CarFleet853.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/CarFleet853/obj/Debug/net8.0/ref/CarFleet853.dll

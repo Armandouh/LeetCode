@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/DailyTemps/bin/Debug/net8.0/DailyTemps
+/Users/armanaslanyan/Desktop/rider/leetCode/DailyTemps/bin/Debug/net8.0/DailyTemps.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/DailyTemps/bin/Debug/net8.0/DailyTemps.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/DailyTemps/bin/Debug/net8.0/DailyTemps.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/DailyTemps/bin/Debug/net8.0/DailyTemps.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/DailyTemps/obj/Debug/net8.0/DailyTemps.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/DailyTemps/obj/Debug/net8.0/DailyTemps.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/DailyTemps/obj/Debug/net8.0/DailyTemps.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/DailyTemps/obj/Debug/net8.0/DailyTemps.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/DailyTemps/obj/Debug/net8.0/DailyTemps.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/DailyTemps/obj/Debug/net8.0/refint/DailyTemps.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/DailyTemps/obj/Debug/net8.0/DailyTemps.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/DailyTemps/obj/Debug/net8.0/DailyTemps.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/DailyTemps/obj/Debug/net8.0/ref/DailyTemps.dll

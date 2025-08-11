@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/keyboardRow500/bin/Debug/net8.0/keyboardRow500
+/Users/armanaslanyan/Desktop/rider/leetCode/keyboardRow500/bin/Debug/net8.0/keyboardRow500.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/keyboardRow500/bin/Debug/net8.0/keyboardRow500.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/keyboardRow500/bin/Debug/net8.0/keyboardRow500.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/keyboardRow500/bin/Debug/net8.0/keyboardRow500.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/keyboardRow500/obj/Debug/net8.0/keyboardRow500.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/keyboardRow500/obj/Debug/net8.0/keyboardRow500.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/keyboardRow500/obj/Debug/net8.0/keyboardRow500.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/keyboardRow500/obj/Debug/net8.0/keyboardRow500.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/keyboardRow500/obj/Debug/net8.0/keyboardRow500.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/keyboardRow500/obj/Debug/net8.0/refint/keyboardRow500.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/keyboardRow500/obj/Debug/net8.0/keyboardRow500.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/keyboardRow500/obj/Debug/net8.0/keyboardRow500.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/keyboardRow500/obj/Debug/net8.0/ref/keyboardRow500.dll

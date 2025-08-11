@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/reverseInt7/bin/Debug/net8.0/reverseInt7
+/Users/armanaslanyan/Desktop/rider/leetCode/reverseInt7/bin/Debug/net8.0/reverseInt7.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/reverseInt7/bin/Debug/net8.0/reverseInt7.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/reverseInt7/bin/Debug/net8.0/reverseInt7.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/reverseInt7/bin/Debug/net8.0/reverseInt7.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/reverseInt7/obj/Debug/net8.0/reverseInt7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/reverseInt7/obj/Debug/net8.0/reverseInt7.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/reverseInt7/obj/Debug/net8.0/reverseInt7.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/reverseInt7/obj/Debug/net8.0/reverseInt7.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/reverseInt7/obj/Debug/net8.0/reverseInt7.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/reverseInt7/obj/Debug/net8.0/refint/reverseInt7.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/reverseInt7/obj/Debug/net8.0/reverseInt7.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/reverseInt7/obj/Debug/net8.0/reverseInt7.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/reverseInt7/obj/Debug/net8.0/ref/reverseInt7.dll

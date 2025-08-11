@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/containDuplicate217/bin/Debug/net8.0/containDuplicate217
+/Users/armanaslanyan/Desktop/rider/leetCode/containDuplicate217/bin/Debug/net8.0/containDuplicate217.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/containDuplicate217/bin/Debug/net8.0/containDuplicate217.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/containDuplicate217/bin/Debug/net8.0/containDuplicate217.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/containDuplicate217/bin/Debug/net8.0/containDuplicate217.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/containDuplicate217/obj/Debug/net8.0/containDuplicate217.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/containDuplicate217/obj/Debug/net8.0/containDuplicate217.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/containDuplicate217/obj/Debug/net8.0/containDuplicate217.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/containDuplicate217/obj/Debug/net8.0/containDuplicate217.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/containDuplicate217/obj/Debug/net8.0/containDuplicate217.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/containDuplicate217/obj/Debug/net8.0/refint/containDuplicate217.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/containDuplicate217/obj/Debug/net8.0/containDuplicate217.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/containDuplicate217/obj/Debug/net8.0/containDuplicate217.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/containDuplicate217/obj/Debug/net8.0/ref/containDuplicate217.dll

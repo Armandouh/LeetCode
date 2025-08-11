@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/addTwo2/bin/Debug/net8.0/addTwo2
+/Users/armanaslanyan/Desktop/rider/leetCode/addTwo2/bin/Debug/net8.0/addTwo2.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/addTwo2/bin/Debug/net8.0/addTwo2.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/addTwo2/bin/Debug/net8.0/addTwo2.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/addTwo2/bin/Debug/net8.0/addTwo2.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/addTwo2/obj/Debug/net8.0/addTwo2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/addTwo2/obj/Debug/net8.0/addTwo2.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/addTwo2/obj/Debug/net8.0/addTwo2.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/addTwo2/obj/Debug/net8.0/addTwo2.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/addTwo2/obj/Debug/net8.0/addTwo2.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/addTwo2/obj/Debug/net8.0/refint/addTwo2.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/addTwo2/obj/Debug/net8.0/addTwo2.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/addTwo2/obj/Debug/net8.0/addTwo2.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/addTwo2/obj/Debug/net8.0/ref/addTwo2.dll

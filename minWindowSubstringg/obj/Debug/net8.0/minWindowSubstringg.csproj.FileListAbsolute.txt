@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/minWindowSubstringg/bin/Debug/net8.0/minWindowSubstringg
+/Users/armanaslanyan/Desktop/rider/leetCode/minWindowSubstringg/bin/Debug/net8.0/minWindowSubstringg.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/minWindowSubstringg/bin/Debug/net8.0/minWindowSubstringg.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/minWindowSubstringg/bin/Debug/net8.0/minWindowSubstringg.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/minWindowSubstringg/bin/Debug/net8.0/minWindowSubstringg.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/minWindowSubstringg/obj/Debug/net8.0/minWindowSubstringg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/minWindowSubstringg/obj/Debug/net8.0/minWindowSubstringg.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/minWindowSubstringg/obj/Debug/net8.0/minWindowSubstringg.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/minWindowSubstringg/obj/Debug/net8.0/minWindowSubstringg.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/minWindowSubstringg/obj/Debug/net8.0/minWindowSubstringg.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/minWindowSubstringg/obj/Debug/net8.0/refint/minWindowSubstringg.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/minWindowSubstringg/obj/Debug/net8.0/minWindowSubstringg.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/minWindowSubstringg/obj/Debug/net8.0/minWindowSubstringg.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/minWindowSubstringg/obj/Debug/net8.0/ref/minWindowSubstringg.dll

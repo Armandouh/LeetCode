@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/palindromicSubstring647/bin/Debug/net8.0/palindromicSubstring647
+/Users/armanaslanyan/Desktop/rider/leetCode/palindromicSubstring647/bin/Debug/net8.0/palindromicSubstring647.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/palindromicSubstring647/bin/Debug/net8.0/palindromicSubstring647.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/palindromicSubstring647/bin/Debug/net8.0/palindromicSubstring647.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/palindromicSubstring647/bin/Debug/net8.0/palindromicSubstring647.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/palindromicSubstring647/obj/Debug/net8.0/palindromicSubstring647.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/palindromicSubstring647/obj/Debug/net8.0/palindromicSubstring647.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/palindromicSubstring647/obj/Debug/net8.0/palindromicSubstring647.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/palindromicSubstring647/obj/Debug/net8.0/palindromicSubstring647.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/palindromicSubstring647/obj/Debug/net8.0/palindromicSubstring647.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/palindromicSubstring647/obj/Debug/net8.0/refint/palindromicSubstring647.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/palindromicSubstring647/obj/Debug/net8.0/palindromicSubstring647.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/palindromicSubstring647/obj/Debug/net8.0/palindromicSubstring647.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/palindromicSubstring647/obj/Debug/net8.0/ref/palindromicSubstring647.dll

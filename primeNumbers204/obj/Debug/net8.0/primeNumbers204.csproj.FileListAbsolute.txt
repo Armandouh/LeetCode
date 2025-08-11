@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/primeNumbers204/bin/Debug/net8.0/primeNumbers204
+/Users/armanaslanyan/Desktop/rider/leetCode/primeNumbers204/bin/Debug/net8.0/primeNumbers204.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/primeNumbers204/bin/Debug/net8.0/primeNumbers204.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/primeNumbers204/bin/Debug/net8.0/primeNumbers204.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/primeNumbers204/bin/Debug/net8.0/primeNumbers204.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/primeNumbers204/obj/Debug/net8.0/primeNumbers204.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/primeNumbers204/obj/Debug/net8.0/primeNumbers204.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/primeNumbers204/obj/Debug/net8.0/primeNumbers204.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/primeNumbers204/obj/Debug/net8.0/primeNumbers204.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/primeNumbers204/obj/Debug/net8.0/primeNumbers204.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/primeNumbers204/obj/Debug/net8.0/refint/primeNumbers204.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/primeNumbers204/obj/Debug/net8.0/primeNumbers204.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/primeNumbers204/obj/Debug/net8.0/primeNumbers204.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/primeNumbers204/obj/Debug/net8.0/ref/primeNumbers204.dll

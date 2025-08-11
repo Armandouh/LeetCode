@@ -1,0 +1,14 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/evalRPN/bin/Debug/net8.0/evalRPN
+/Users/armanaslanyan/Desktop/rider/leetCode/evalRPN/bin/Debug/net8.0/evalRPN.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/evalRPN/bin/Debug/net8.0/evalRPN.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/evalRPN/bin/Debug/net8.0/evalRPN.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/evalRPN/bin/Debug/net8.0/evalRPN.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/evalRPN/obj/Debug/net8.0/evalRPN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/evalRPN/obj/Debug/net8.0/evalRPN.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/evalRPN/obj/Debug/net8.0/evalRPN.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/evalRPN/obj/Debug/net8.0/evalRPN.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/evalRPN/obj/Debug/net8.0/evalRPN.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/evalRPN/obj/Debug/net8.0/refint/evalRPN.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/evalRPN/obj/Debug/net8.0/evalRPN.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/evalRPN/obj/Debug/net8.0/evalRPN.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/evalRPN/obj/Debug/net8.0/ref/evalRPN.dll
