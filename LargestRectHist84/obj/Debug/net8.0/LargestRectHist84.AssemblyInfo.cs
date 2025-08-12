@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LargestRectHist84")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c79e5b8be3b3d4042fa7013673a476ec5ce2d223")]
 [assembly: System.Reflection.AssemblyProductAttribute("LargestRectHist84")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LargestRectHist84")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/LargestRectHist84/bin/Debug/net8.0/LargestRectHist84
+/Users/armanaslanyan/Desktop/rider/leetCode/LargestRectHist84/bin/Debug/net8.0/LargestRectHist84.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/LargestRectHist84/bin/Debug/net8.0/LargestRectHist84.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/LargestRectHist84/bin/Debug/net8.0/LargestRectHist84.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/LargestRectHist84/bin/Debug/net8.0/LargestRectHist84.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/LargestRectHist84/obj/Debug/net8.0/LargestRectHist84.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/LargestRectHist84/obj/Debug/net8.0/LargestRectHist84.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/LargestRectHist84/obj/Debug/net8.0/LargestRectHist84.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/LargestRectHist84/obj/Debug/net8.0/LargestRectHist84.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/LargestRectHist84/obj/Debug/net8.0/LargestRectHist84.sourcelink.json
+/Users/armanaslanyan/Desktop/rider/leetCode/LargestRectHist84/obj/Debug/net8.0/LargestRectHist84.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/LargestRectHist84/obj/Debug/net8.0/refint/LargestRectHist84.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/LargestRectHist84/obj/Debug/net8.0/LargestRectHist84.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/LargestRectHist84/obj/Debug/net8.0/LargestRectHist84.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/LargestRectHist84/obj/Debug/net8.0/ref/LargestRectHist84.dll
