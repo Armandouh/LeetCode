@@ -1,0 +1,15 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/Search2Dmatrix74/bin/Debug/net8.0/Search2Dmatrix74
+/Users/armanaslanyan/Desktop/rider/leetCode/Search2Dmatrix74/bin/Debug/net8.0/Search2Dmatrix74.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/Search2Dmatrix74/bin/Debug/net8.0/Search2Dmatrix74.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/Search2Dmatrix74/bin/Debug/net8.0/Search2Dmatrix74.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/Search2Dmatrix74/bin/Debug/net8.0/Search2Dmatrix74.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/Search2Dmatrix74/obj/Debug/net8.0/Search2Dmatrix74.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/Search2Dmatrix74/obj/Debug/net8.0/Search2Dmatrix74.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/Search2Dmatrix74/obj/Debug/net8.0/Search2Dmatrix74.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/Search2Dmatrix74/obj/Debug/net8.0/Search2Dmatrix74.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/Search2Dmatrix74/obj/Debug/net8.0/Search2Dmatrix74.sourcelink.json
+/Users/armanaslanyan/Desktop/rider/leetCode/Search2Dmatrix74/obj/Debug/net8.0/Search2Dmatrix74.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/Search2Dmatrix74/obj/Debug/net8.0/refint/Search2Dmatrix74.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/Search2Dmatrix74/obj/Debug/net8.0/Search2Dmatrix74.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/Search2Dmatrix74/obj/Debug/net8.0/Search2Dmatrix74.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/Search2Dmatrix74/obj/Debug/net8.0/ref/Search2Dmatrix74.dll

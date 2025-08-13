@@ -82,6 +82,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestRectHist84", "Larges
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch704", "BinarySearch704\BinarySearch704.csproj", "{48669B92-D6EB-4F5F-B0CA-7FF68EFF9994}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search2Dmatrix74", "Search2Dmatrix74\Search2Dmatrix74.csproj", "{467A5C45-143D-4F39-85FD-BB3678852C48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -252,5 +254,9 @@ Global
 		{48669B92-D6EB-4F5F-B0CA-7FF68EFF9994}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48669B92-D6EB-4F5F-B0CA-7FF68EFF9994}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48669B92-D6EB-4F5F-B0CA-7FF68EFF9994}.Release|Any CPU.Build.0 = Release|Any CPU
+		{467A5C45-143D-4F39-85FD-BB3678852C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467A5C45-143D-4F39-85FD-BB3678852C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467A5C45-143D-4F39-85FD-BB3678852C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467A5C45-143D-4F39-85FD-BB3678852C48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

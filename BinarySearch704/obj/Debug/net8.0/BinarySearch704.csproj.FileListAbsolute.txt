@@ -1,0 +1,15 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/BinarySearch704/obj/Debug/net8.0/BinarySearch704.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/BinarySearch704/obj/Debug/net8.0/BinarySearch704.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/BinarySearch704/obj/Debug/net8.0/BinarySearch704.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/BinarySearch704/obj/Debug/net8.0/BinarySearch704.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/BinarySearch704/obj/Debug/net8.0/BinarySearch704.sourcelink.json
+/Users/armanaslanyan/Desktop/rider/leetCode/BinarySearch704/bin/Debug/net8.0/BinarySearch704
+/Users/armanaslanyan/Desktop/rider/leetCode/BinarySearch704/bin/Debug/net8.0/BinarySearch704.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/BinarySearch704/bin/Debug/net8.0/BinarySearch704.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/BinarySearch704/bin/Debug/net8.0/BinarySearch704.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/BinarySearch704/bin/Debug/net8.0/BinarySearch704.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/BinarySearch704/obj/Debug/net8.0/BinarySearch704.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/BinarySearch704/obj/Debug/net8.0/refint/BinarySearch704.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/BinarySearch704/obj/Debug/net8.0/BinarySearch704.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/BinarySearch704/obj/Debug/net8.0/BinarySearch704.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/BinarySearch704/obj/Debug/net8.0/ref/BinarySearch704.dll
