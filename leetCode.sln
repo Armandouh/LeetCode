@@ -80,6 +80,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarFleet853", "CarFleet853\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestRectHist84", "LargestRectHist84\LargestRectHist84.csproj", "{75C981EE-6D61-48FF-A4A5-DE9BF2948A8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch704", "BinarySearch704\BinarySearch704.csproj", "{48669B92-D6EB-4F5F-B0CA-7FF68EFF9994}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -246,5 +248,9 @@ Global
 		{75C981EE-6D61-48FF-A4A5-DE9BF2948A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75C981EE-6D61-48FF-A4A5-DE9BF2948A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75C981EE-6D61-48FF-A4A5-DE9BF2948A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48669B92-D6EB-4F5F-B0CA-7FF68EFF9994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48669B92-D6EB-4F5F-B0CA-7FF68EFF9994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48669B92-D6EB-4F5F-B0CA-7FF68EFF9994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48669B92-D6EB-4F5F-B0CA-7FF68EFF9994}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
