@@ -84,6 +84,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch704", "BinarySe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search2Dmatrix74", "Search2Dmatrix74\Search2Dmatrix74.csproj", "{467A5C45-143D-4F39-85FD-BB3678852C48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KokoEatingBananas875", "KokoEatingBananas875\KokoEatingBananas875.csproj", "{61DAB90F-FCBA-4D63-A0C8-18E671E48A2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMinInRotatedArr153", "FindMinInRotatedArr153\FindMinInRotatedArr153.csproj", "{5E08DD5B-4B52-486B-9A71-DCCA44AD43A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -258,5 +262,13 @@ Global
 		{467A5C45-143D-4F39-85FD-BB3678852C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{467A5C45-143D-4F39-85FD-BB3678852C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{467A5C45-143D-4F39-85FD-BB3678852C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61DAB90F-FCBA-4D63-A0C8-18E671E48A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61DAB90F-FCBA-4D63-A0C8-18E671E48A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61DAB90F-FCBA-4D63-A0C8-18E671E48A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61DAB90F-FCBA-4D63-A0C8-18E671E48A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E08DD5B-4B52-486B-9A71-DCCA44AD43A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E08DD5B-4B52-486B-9A71-DCCA44AD43A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E08DD5B-4B52-486B-9A71-DCCA44AD43A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E08DD5B-4B52-486B-9A71-DCCA44AD43A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

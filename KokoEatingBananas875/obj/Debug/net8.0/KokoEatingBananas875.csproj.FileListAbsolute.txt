@@ -1,0 +1,15 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/KokoEatingBananas875/bin/Debug/net8.0/KokoEatingBananas875
+/Users/armanaslanyan/Desktop/rider/leetCode/KokoEatingBananas875/bin/Debug/net8.0/KokoEatingBananas875.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/KokoEatingBananas875/bin/Debug/net8.0/KokoEatingBananas875.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/KokoEatingBananas875/bin/Debug/net8.0/KokoEatingBananas875.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/KokoEatingBananas875/bin/Debug/net8.0/KokoEatingBananas875.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/KokoEatingBananas875/obj/Debug/net8.0/KokoEatingBananas875.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/KokoEatingBananas875/obj/Debug/net8.0/KokoEatingBananas875.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/KokoEatingBananas875/obj/Debug/net8.0/KokoEatingBananas875.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/KokoEatingBananas875/obj/Debug/net8.0/KokoEatingBananas875.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/KokoEatingBananas875/obj/Debug/net8.0/KokoEatingBananas875.sourcelink.json
+/Users/armanaslanyan/Desktop/rider/leetCode/KokoEatingBananas875/obj/Debug/net8.0/KokoEatingBananas875.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/KokoEatingBananas875/obj/Debug/net8.0/refint/KokoEatingBananas875.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/KokoEatingBananas875/obj/Debug/net8.0/KokoEatingBananas875.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/KokoEatingBananas875/obj/Debug/net8.0/KokoEatingBananas875.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/KokoEatingBananas875/obj/Debug/net8.0/ref/KokoEatingBananas875.dll
