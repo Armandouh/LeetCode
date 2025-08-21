@@ -1,0 +1,15 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/SearchInRotSortArr33/obj/Debug/net8.0/SearchInRotSortArr33.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/SearchInRotSortArr33/obj/Debug/net8.0/SearchInRotSortArr33.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/SearchInRotSortArr33/obj/Debug/net8.0/SearchInRotSortArr33.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/SearchInRotSortArr33/obj/Debug/net8.0/SearchInRotSortArr33.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/SearchInRotSortArr33/obj/Debug/net8.0/SearchInRotSortArr33.sourcelink.json
+/Users/armanaslanyan/Desktop/rider/leetCode/SearchInRotSortArr33/bin/Debug/net8.0/SearchInRotSortArr33
+/Users/armanaslanyan/Desktop/rider/leetCode/SearchInRotSortArr33/bin/Debug/net8.0/SearchInRotSortArr33.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/SearchInRotSortArr33/bin/Debug/net8.0/SearchInRotSortArr33.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/SearchInRotSortArr33/bin/Debug/net8.0/SearchInRotSortArr33.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/SearchInRotSortArr33/bin/Debug/net8.0/SearchInRotSortArr33.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/SearchInRotSortArr33/obj/Debug/net8.0/SearchInRotSortArr33.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/SearchInRotSortArr33/obj/Debug/net8.0/refint/SearchInRotSortArr33.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/SearchInRotSortArr33/obj/Debug/net8.0/SearchInRotSortArr33.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/SearchInRotSortArr33/obj/Debug/net8.0/SearchInRotSortArr33.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/SearchInRotSortArr33/obj/Debug/net8.0/ref/SearchInRotSortArr33.dll
