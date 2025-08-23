@@ -1,0 +1,15 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/TimeBasedKeyVal981/bin/Debug/net8.0/TimeBasedKeyVal981
+/Users/armanaslanyan/Desktop/rider/leetCode/TimeBasedKeyVal981/bin/Debug/net8.0/TimeBasedKeyVal981.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/TimeBasedKeyVal981/bin/Debug/net8.0/TimeBasedKeyVal981.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/TimeBasedKeyVal981/bin/Debug/net8.0/TimeBasedKeyVal981.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/TimeBasedKeyVal981/bin/Debug/net8.0/TimeBasedKeyVal981.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/TimeBasedKeyVal981/obj/Debug/net8.0/TimeBasedKeyVal981.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/TimeBasedKeyVal981/obj/Debug/net8.0/TimeBasedKeyVal981.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/TimeBasedKeyVal981/obj/Debug/net8.0/TimeBasedKeyVal981.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/TimeBasedKeyVal981/obj/Debug/net8.0/TimeBasedKeyVal981.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/TimeBasedKeyVal981/obj/Debug/net8.0/TimeBasedKeyVal981.sourcelink.json
+/Users/armanaslanyan/Desktop/rider/leetCode/TimeBasedKeyVal981/obj/Debug/net8.0/TimeBasedKeyVal981.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/TimeBasedKeyVal981/obj/Debug/net8.0/refint/TimeBasedKeyVal981.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/TimeBasedKeyVal981/obj/Debug/net8.0/TimeBasedKeyVal981.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/TimeBasedKeyVal981/obj/Debug/net8.0/TimeBasedKeyVal981.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/TimeBasedKeyVal981/obj/Debug/net8.0/ref/TimeBasedKeyVal981.dll

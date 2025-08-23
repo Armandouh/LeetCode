@@ -4,59 +4,55 @@ class Program
 {
     static void Main()
     {
-            
+        string s = "ABOBECODEBANC";
+        string t = "ABC";
+        Console.WriteLine($"The min substring: {minWindow(s, t)}");
     }
 
-    public String minWindow(string s, string t)
+    public static String minWindow(string s, string t)
     {
-        if (t.Length > s.Length || t.Length == 0)
+        if (s.Length == 0 || t.Length > s.Length)
             return "";
 
         Dictionary<char, int> tCount = new Dictionary<char, int>();
         Dictionary<char, int> window = new Dictionary<char, int>();
 
-        foreach (char c in t)
-            tCount[c] = tCount.GetValueOrDefault(c, 0) + 1;
+        for (int i = 0; i < t.Length; i++)
+            tCount[t[i]] = tCount.GetValueOrDefault(t[i], 0) + 1;
 
         int have = 0;
         int need = tCount.Count;
-
-        int resLen = int.MaxValue;
-        int[] res = new int[2] { -1, -1 };
-
+        int length = int.MaxValue;
         int l = 0;
-
-        for (int r = 0; r < s.Length; r++)
+        int r = 0;
+        int[] result = new int[] { -1, -1 };
+        while (r < s.Length)
         {
-            char cAdd = s[r];
-            window[cAdd] = window.GetValueOrDefault(cAdd, 0) + 1;
+            window[s[r]] = window.GetValueOrDefault(s[r], 0) + 1;
 
-            if (tCount.ContainsKey(cAdd) && tCount[cAdd] == window[cAdd])
+            if (tCount.ContainsKey(s[r]) && tCount[s[r]] == window[s[r]])
                 have++;
 
             while (have == need)
             {
+                int current = r - l + 1;
+                if (current < length)
+                {
+                    result = new int[] { l, r };
+                    length = current;
+                }
+                
                 char cRem = s[l];
                 window[cRem]--;
 
                 if (tCount.ContainsKey(cRem) && tCount[cRem] > window[cRem])
                     have--;
-
-                if (r - l + 1 < resLen)
-                {
-                    res = new int[] { l, r };
-                    resLen = r - l + 1;
-                }
-
                 l++;
             }
+
+            r++;
         }
 
-        if (resLen == int.MaxValue)
-            return "";
-
-        int lenght = res[1] - res[0] + 1;
-
-        return s.Substring(res[0], lenght);
+        return length == int.MaxValue ? "" : s.Substring(result[0], result[1] - result[0] + 1);
     }
 }

@@ -12,3 +12,4 @@
 /Users/armanaslanyan/Desktop/rider/leetCode/minWindowSubstringg/obj/Debug/net8.0/minWindowSubstringg.pdb
 /Users/armanaslanyan/Desktop/rider/leetCode/minWindowSubstringg/obj/Debug/net8.0/minWindowSubstringg.genruntimeconfig.cache
 /Users/armanaslanyan/Desktop/rider/leetCode/minWindowSubstringg/obj/Debug/net8.0/ref/minWindowSubstringg.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/minWindowSubstringg/obj/Debug/net8.0/minWindowSubstringg.sourcelink.json
