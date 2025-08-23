@@ -1,0 +1,15 @@
+/Users/armanaslanyan/Desktop/rider/leetCode/MedianOfTwoSortArrs4/bin/Debug/net8.0/MedianOfTwoSortArrs4
+/Users/armanaslanyan/Desktop/rider/leetCode/MedianOfTwoSortArrs4/bin/Debug/net8.0/MedianOfTwoSortArrs4.deps.json
+/Users/armanaslanyan/Desktop/rider/leetCode/MedianOfTwoSortArrs4/bin/Debug/net8.0/MedianOfTwoSortArrs4.runtimeconfig.json
+/Users/armanaslanyan/Desktop/rider/leetCode/MedianOfTwoSortArrs4/bin/Debug/net8.0/MedianOfTwoSortArrs4.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/MedianOfTwoSortArrs4/bin/Debug/net8.0/MedianOfTwoSortArrs4.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/MedianOfTwoSortArrs4/obj/Debug/net8.0/MedianOfTwoSortArrs4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanaslanyan/Desktop/rider/leetCode/MedianOfTwoSortArrs4/obj/Debug/net8.0/MedianOfTwoSortArrs4.AssemblyInfoInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/MedianOfTwoSortArrs4/obj/Debug/net8.0/MedianOfTwoSortArrs4.AssemblyInfo.cs
+/Users/armanaslanyan/Desktop/rider/leetCode/MedianOfTwoSortArrs4/obj/Debug/net8.0/MedianOfTwoSortArrs4.csproj.CoreCompileInputs.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/MedianOfTwoSortArrs4/obj/Debug/net8.0/MedianOfTwoSortArrs4.sourcelink.json
+/Users/armanaslanyan/Desktop/rider/leetCode/MedianOfTwoSortArrs4/obj/Debug/net8.0/MedianOfTwoSortArrs4.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/MedianOfTwoSortArrs4/obj/Debug/net8.0/refint/MedianOfTwoSortArrs4.dll
+/Users/armanaslanyan/Desktop/rider/leetCode/MedianOfTwoSortArrs4/obj/Debug/net8.0/MedianOfTwoSortArrs4.pdb
+/Users/armanaslanyan/Desktop/rider/leetCode/MedianOfTwoSortArrs4/obj/Debug/net8.0/MedianOfTwoSortArrs4.genruntimeconfig.cache
+/Users/armanaslanyan/Desktop/rider/leetCode/MedianOfTwoSortArrs4/obj/Debug/net8.0/ref/MedianOfTwoSortArrs4.dll
