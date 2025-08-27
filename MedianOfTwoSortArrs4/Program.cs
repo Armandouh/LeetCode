@@ -4,8 +4,8 @@ public class Solution
 {
     public static void Main()
     {
-        int[] arr1 = { 1, 2, 3 };
-        int[] arr2 = { 4, 5, 6 };
+        int[] arr1 = { 1, 2, 3, 4, 5, 6};
+        int[] arr2 = { 1, 2 };
         Console.WriteLine(FindMedianSortedArrays(arr1, arr2));
     }
     
@@ -17,7 +17,7 @@ public class Solution
         int half = total / 2;
 
         // We want to always run the binary search on a smaller array
-        if (B.Length > A.Length)
+        if (A.Length > B.Length)
         {
             int[] temp = A;
             A = B;
@@ -25,27 +25,36 @@ public class Solution
         }
 
         int l = 0;
-        int r = B.Length - 1;
+        int r = A.Length;
 
-        while (true)
+        while (l <= r)
         {
-            int m = (l + r) / 2;
-            int n = half - m - 2; // We subtract -2 bcz the arrays are zero-based adn to take not the index but the length we sub 2
-            
-            int Aleft = (n >= 0) ? A[n] : int.MinValue;
-            int Aright = (n + 1 < A.Length) ? A[n + 1] : int.MaxValue;
-            int Bleft = (m >= 0) ? B[m] : int.MinValue;
-            int Bright = (m + 1 < B.Length) ? B[m + 1] : int.MaxValue;
+            int m = (l + r) / 2; // A
+            int n = half - m; // B
 
-            if (Aright >= Bleft && Bright >= Aleft)
+            int Aleft  = (m > 0) ? A[m - 1] : int.MinValue;
+            int Aright = (m < A.Length) ? A[m] : int.MaxValue;
+            int Bleft  = (n > 0) ? B[n - 1] : int.MinValue;
+            int Bright = (n < B.Length) ? B[n] : int.MaxValue;
+
+
+            if (Bright >= Aleft && Aright >= Bleft)
             {
+                // Even length
                 if (total % 2 == 0)
-                    return (double)(Math.Max(Bleft, Aleft) + Math.Min(Bright, Aright)) / 2;
-                else return (double)Math.Min(Aright, Bright);
+                {
+                    return (Math.Max(Aleft, Bleft) + Math.Min(Aright, Bright)) / 2.0;
+                }
+
+                // Odd length
+                else
+                    return (double)Math.Min(Aright, Bright);
             }
             else if (Aleft > Bright)
+                r = m - 1;
+            else
                 l = m + 1;
-            else r = m - 1;
         }
+        throw new InvalidOperationException("Input arrays not sorted properly.");
     }
 }

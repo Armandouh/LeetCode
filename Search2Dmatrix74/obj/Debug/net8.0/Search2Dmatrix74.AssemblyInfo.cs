@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Search2Dmatrix74")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2135468de9d63bc56a6d821642f47482dc7f02c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Search2Dmatrix74")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Search2Dmatrix74")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

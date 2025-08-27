@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MedianOfTwoSortArrs4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff022e0a26f55561a6a80e40692a5416d5eda33c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17c647592360dd66b204c5744fbcad6fd38da4c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("MedianOfTwoSortArrs4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MedianOfTwoSortArrs4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

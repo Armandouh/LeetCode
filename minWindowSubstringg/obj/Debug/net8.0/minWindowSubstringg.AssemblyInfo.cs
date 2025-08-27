@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("minWindowSubstringg")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb4fb69405e2fc48820b4eeab210ed16896aeaa0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("minWindowSubstringg")]
 [assembly: System.Reflection.AssemblyTitleAttribute("minWindowSubstringg")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
